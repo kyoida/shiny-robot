@@ -1,2 +1,2 @@
 # shiny-robot
-learning vue.js(+axios)
+learning vue.js(+axios) + bootstrap
